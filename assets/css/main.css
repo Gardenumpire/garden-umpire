@@ -616,9 +616,10 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #eeeeee;
-		color: #39454b;
+		background: #ccdabf;
+		color: #000000;
 		padding: 2em;
+		border-radius: 0.5em;
 	}
 
 		.box > :last-child {
@@ -853,12 +854,12 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		color: #39454b;
+		color: #000000;
 		display: block;
 		width: 100%;
 		padding: 0.65em 0.75em;
 		background: none;
-		border: solid 2px #e5e6e7;
+		border: solid 2px #ffffff;
 		color: inherit;
 		border-radius: 0.5em;
 		outline: none;
@@ -872,7 +873,7 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #9ac8e9;
+			border-color: #4e4e4e;
 		}
 
 	input[type="text"],
