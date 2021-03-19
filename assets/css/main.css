@@ -616,7 +616,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #9AB686;
+		background: #c8d6be;
 		color: #000000;
 		padding: 2em;
 		border-radius: 0.5em;
@@ -1991,7 +1991,7 @@ input, select, textarea {
 				transform: translateZ(0);
 				opacity: 0.98;
 				margin: 0;
-				background: #9AB686;
+				background: #c8d6be;
 				border-radius: 5px;
 				border-style: solid;
 				border-color: rgb(0, 0, 0);
@@ -2223,7 +2223,7 @@ input, select, textarea {
 		margin: 0;
 		line-height: 1em;
 		padding: 1.5em;
-		background: #445c94;
+		background: #4f5e80;
 		color: white;
 		overflow: hidden;
 		border-top: 1px solid black;
