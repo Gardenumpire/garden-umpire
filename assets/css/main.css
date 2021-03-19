@@ -497,7 +497,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: "Source Sans Pro", "sans-serif";
 		font-weight: 300;
-		font-size: 18pt;
+		font-size: 20pt;
 		line-height: 1.75em;
 		color: #000000;
 		letter-spacing: 0.025em;
@@ -506,7 +506,7 @@ input, select, textarea {
 		@media screen and (max-width: 1920px) {
 
 			body, input, textarea, select {
-				font-size: 17pt;
+				font-size: 19pt;
 			}
 
 		}
@@ -514,7 +514,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			body, input, textarea, select {
-				font-size: 15pt;
+				font-size: 17pt;
 			}
 
 		}
@@ -522,7 +522,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			body, input, textarea, select {
-				font-size: 13pt;
+				font-size: 15pt;
 			}
 
 		}
@@ -530,7 +530,7 @@ input, select, textarea {
 		@media screen and (max-width: 1000px) {
 
 			body, input, textarea, select {
-				font-size: 13pt;
+				font-size: 15pt;
 			}
 
 		}
@@ -538,7 +538,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			body, input, textarea, select {
-				font-size: 12pt;
+				font-size: 14pt;
 				line-height: 1.5em;
 			}
 
@@ -760,6 +760,14 @@ input, select, textarea {
 				background-image: url("images/arrow.svg");
 				color: #000000;
 			}
+
+				button.style2.down:hover {
+					
+				}
+
+				button.style2.down:active {
+
+				}
 
 /* Form */
 
@@ -2082,7 +2090,7 @@ input, select, textarea {
 
 		.main.style3 {
 			text-align: center;
-			padding: 6em 0 6em 0;
+			padding: 6em 1em 6em 1em;
 		}
 
 			.main.style3 .content > header {
@@ -2288,6 +2296,14 @@ input, select, textarea {
 				}
 
 		}
+
+/* Job List */
+
+		.joblist {
+			list-style-type: disc;
+			padding-left: 2em;
+		}
+
 
 /* Intro */
 
