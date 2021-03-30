@@ -2330,7 +2330,7 @@ input, select, textarea {
 		background: url("../../images/one.jpg");
 		background-size: cover;
 		background-attachment: fixed;
-		background-position:center center;
+		background-position:center left;
 	}
 
 /* Two */
